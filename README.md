@@ -1,3 +1,9 @@
-- 👋 Hi, I’m Toni Stojčević
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java
+### Hi 👋, I'm Toni
+
+
+
+🔭 I’m interested in programming.
+
+🌱 I’m currently learning Java.
+
+📫 How to reach me stojcevict@gmail.com
